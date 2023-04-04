@@ -2,7 +2,7 @@
   <AppLayout>
     <main id="content">
       <!-- ========== HERO ========== -->
-      <div class="hero-block hero-v1 bg-img-hero-bottom gradient-overlay-half-black-gradient text-center z-index-2" style="background-image: url(/src/assets/open/img/1920x800/img1.jpg);">
+      <div class="hero-block hero-v1 bg-img-hero-bottom gradient-overlay-half-black-gradient text-center z-index-2" style="background-image: url('/src/assets/open/img/1920x800/img1.jpg');">
         <div class="container space-2 space-top-xl-9">
           <div class="row justify-content-md-center pb-xl-8">
             <!-- Info -->
@@ -74,7 +74,7 @@
           <div class="row mb-1">
             <!-- Card Block -->
             <div class="col-md-6 mb-3 mb-md-4">
-              <div class="min-height-350 bg-img-hero rounded-border p-5 gradient-overlay-half-bg-gradient transition-3d-hover shadow-hover-2 border-0 dropdown" style="background-image: url(/src/assets/open/img/630x350/img1.jpg);">
+              <div class="min-height-350 bg-img-hero rounded-border p-5 gradient-overlay-half-bg-gradient transition-3d-hover shadow-hover-2 border-0 dropdown" style="background-image: url('/src/assets/open/img/630x350/img1.jpg');">
                 <div class="w-100 d-flex justify-content-between mb-2">
                   <div class="position-relative">
                     <a href="others/destination.html" class="destination text-white font-weight-bold font-size-21 pb-3 mb-3 text-lh-1 d-block">United Kingdom</a>
