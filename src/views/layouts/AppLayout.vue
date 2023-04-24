@@ -269,31 +269,29 @@
 
 
       //JS Global Compulsory
-      loadScript("/assets/open/vendor/jquery/dist/jquery.min.js").then(()=>{
-        alert("Hello")
-      })
-      loadScript("/assets/open/vendor/jquery-migrate/dist/jquery-migrate.min.js")
-      loadScript("/assets/open/vendor/popper.js/dist/umd/popper.min.js")
-      loadScript("/assets/open/vendor/bootstrap/bootstrap.min.js")
+      external.head_script("/assets/open/vendor/jquery/dist/jquery.min.js")
+      external.body_script("/assets/open/vendor/jquery-migrate/dist/jquery-migrate.min.js")
+      external.body_script("/assets/open/vendor/popper.js/dist/umd/popper.min.js")
+      external.body_script("/assets/open/vendor/bootstrap/bootstrap.min.js")
 
       // JS Implementing Plugins
-      loadScript("/assets/open/vendor/hs-megamenu/src/hs.megamenu.js")
-      loadScript("/assets/open/vendor/jquery-validation/dist/jquery.validate.min.js")
-      loadScript("/assets/open/vendor/flatpickr/dist/flatpickr.min.js")
-      loadScript("/assets/open/vendor/bootstrap-select/dist/js/bootstrap-select.min.js")
-      loadScript("/assets/open/vendor/slick-carousel/slick/slick.js")
+      external.body_script("/assets/open/vendor/hs-megamenu/src/hs.megamenu.js")
+      external.body_script("/assets/open/vendor/jquery-validation/dist/jquery.validate.min.js")
+      external.body_script("/assets/open/vendor/flatpickr/dist/flatpickr.min.js")
+      external.body_script("/assets/open/vendor/bootstrap-select/dist/js/bootstrap-select.min.js")
+      external.body_script("/assets/open/vendor/slick-carousel/slick/slick.js")
 
       //JS MyTravel
-      loadScript("/assets/open/js/hs.core.js")
-      loadScript("/assets/open/js/components/hs.header.js")
-      loadScript("/assets/open/js/components/hs.unfold.js")
-      loadScript("/assets/open/js/components/hs.validation.js")
-      loadScript("/assets/open/js/components/hs.show-animation.js")
-      loadScript("/assets/open/js/components/hs.range-datepicker.js")
-      loadScript("/assets/open/js/components/hs.selectpicker.js")
-      loadScript("/assets/open/js/components/hs.go-to.js")
-      loadScript("/assets/open/js/components/hs.slick-carousel.js")
-      loadScript("/assets/open/js/components/hs.quantity-counter.js")
+      external.body_script("/assets/open/js/hs.core.js")
+      external.body_script("/assets/open/js/components/hs.header.js")
+      external.body_script("/assets/open/js/components/hs.unfold.js")
+      external.body_script("/assets/open/js/components/hs.validation.js")
+      external.body_script("/assets/open/js/components/hs.show-animation.js")
+      external.body_script("/assets/open/js/components/hs.range-datepicker.js")
+      external.body_script("/assets/open/js/components/hs.selectpicker.js")
+      external.body_script("/assets/open/js/components/hs.go-to.js")
+      external.body_script("/assets/open/js/components/hs.slick-carousel.js")
+      external.body_script("/assets/open/js/components/hs.quantity-counter.js")
     })
 
 
