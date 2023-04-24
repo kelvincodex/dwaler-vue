@@ -2,7 +2,7 @@
   <AppLayout>
     <main id="content">
       <!-- ========== HERO ========== -->
-      <div class="hero-block hero-v1 bg-img-hero-bottom gradient-overlay-half-black-gradient text-center z-index-2" style="background-image: url(/img1.jpg);">
+      <div class="hero-block hero-v1 bg-img-hero-bottom gradient-overlay-half-black-gradient text-center z-index-2" style="background-image: url(/assets/open/img/1920x800/img1.jpg);">
         <div class="container space-2 space-top-xl-9">
           <div class="row justify-content-md-center pb-xl-8">
             <!-- Info -->
