@@ -251,7 +251,7 @@
     const route = useRoute()
     const routeName = route.name
 
-    onBeforeMount(()=>{
+    onMounted(()=>{
       //Google Fonts
       external.head_link("https://fonts.googleapis.com/css?family=Lato&display=swap")
       external.head_link("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&amp;display=swap")
