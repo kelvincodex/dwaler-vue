@@ -1,4 +1,5 @@
 <template>
+
   <!-- ========== HEADER ========== -->
   <HomeHeader v-if="routeName === 'Home'" />
   <Header v-else />
@@ -244,12 +245,29 @@
     import HomeHeader from "../../components/Header/HomeHeader.vue";
     import Header from "../../components/Header/Header.vue";
     import { loadScript } from "vue-plugin-load-script";
-    import {onUnmounted} from "vue";
+    import * as external from "../../assets/external.js"
+    import {onMounted, onUnmounted} from "vue";
 
     const route = useRoute()
     const routeName = route.name
 
-    onUnmounted(()=>{
+    onMounted(()=>{
+      //Google Fonts
+      external.head_link("https://fonts.googleapis.com/css?family=Lato&display=swap")
+      external.head_link("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&amp;display=swap")
+      //CSS Implementing Plugins
+      external.head_link("/assets/open/vendor/font-awesome/css/fontawesome-all.min.css")
+      external.head_link("/assets/open/css/font-mytravel.css")
+      external.head_link("/assets/open/vendor/animate.css/animate.min.css")
+      external.head_link("/assets/open/vendor/hs-megamenu/src/hs.megamenu.css")
+      external.head_link("/assets/open/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css")
+      external.head_link("/assets/open/vendor/flatpickr/dist/flatpickr.min.css")
+      external.head_link("/assets/open/vendor/bootstrap-select/dist/css/bootstrap-select.min.css")
+      external.head_link("/assets/open/vendor/slick-carousel/slick/slick.css")
+      //CSS MyTravel Template
+      external.head_link("/assets/open/css/theme.css")
+
+
       //JS Global Compulsory
       loadScript("/assets/open/vendor/jquery/dist/jquery.min.js").then(()=>{
         alert("Hello")
