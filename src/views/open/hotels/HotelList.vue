@@ -124,7 +124,7 @@
                     <a href="hotel-list.html#ontargetModal" class="d-block border rounded"
                        data-modal-target="#ontargetModal"
                        data-modal-effect="fadein">
-                      <img src="/src/assets/open/img/map-markers/map.jpg" alt="" width="100%">
+                      <img src="/assets/open/img/map-markers/map.jpg" alt="" width="100%">
                     </a>
                     <!-- On Target Modal -->
                     <div id="ontargetModal" class="js-modal-window u-modal-window max-height-100vh width-100vw overflow-hidden"
@@ -238,7 +238,7 @@
                                           <div class="col-md-6">
                                             <div class="product-item__header">
                                               <div class="position-relative">
-                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/src/assets/open/img/300x230/img58.jpg"></a>
+                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/assets/open/img/300x230/img58.jpg"></a>
                                               </div>
                                               <div class="position-absolute top-0 left-0 pt-3 pl-4">
                                                 <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -292,7 +292,7 @@
                                           <div class="col-md-6">
                                             <div class="product-item__header">
                                               <div class="position-relative">
-                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/src/assets/open/img/300x230/img59.jpg"></a>
+                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/assets/open/img/300x230/img59.jpg"></a>
                                               </div>
                                               <div class="position-absolute top-0 left-0 pt-3 pl-4">
                                                 <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -346,7 +346,7 @@
                                           <div class="col-md-6">
                                             <div class="product-item__header">
                                               <div class="position-relative">
-                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/src/assets/open/img/300x230/img60.jpg"></a>
+                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/assets/open/img/300x230/img60.jpg"></a>
                                               </div>
                                               <div class="position-absolute top-0 left-0 pt-3 pl-4">
                                                 <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -400,7 +400,7 @@
                                           <div class="col-md-6">
                                             <div class="product-item__header">
                                               <div class="position-relative">
-                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/src/assets/open/img/300x230/img3.jpg"></a>
+                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/assets/open/img/300x230/img3.jpg"></a>
                                               </div>
                                               <div class="position-absolute top-0 left-0 pt-3 pl-4">
                                                 <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -454,7 +454,7 @@
                                           <div class="col-md-6">
                                             <div class="product-item__header">
                                               <div class="position-relative">
-                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/src/assets/open/img/300x230/img61.jpg"></a>
+                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/assets/open/img/300x230/img61.jpg"></a>
                                               </div>
                                               <div class="position-absolute top-0 left-0 pt-3 pl-4">
                                                 <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -508,7 +508,7 @@
                                           <div class="col-md-6">
                                             <div class="product-item__header">
                                               <div class="position-relative">
-                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/src/assets/open/img/300x230/img62.jpg"></a>
+                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/assets/open/img/300x230/img62.jpg"></a>
                                               </div>
                                               <div class="position-absolute top-0 left-0 pt-3 pl-4">
                                                 <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -562,7 +562,7 @@
                                           <div class="col-md-6">
                                             <div class="product-item__header">
                                               <div class="position-relative">
-                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/src/assets/open/img/300x230/img63.jpg"></a>
+                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/assets/open/img/300x230/img63.jpg"></a>
                                               </div>
                                               <div class="position-absolute top-0 left-0 pt-3 pl-4">
                                                 <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -616,7 +616,7 @@
                                           <div class="col-md-6">
                                             <div class="product-item__header">
                                               <div class="position-relative">
-                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/src/assets/open/img/300x230/img9.jpg"></a>
+                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/assets/open/img/300x230/img9.jpg"></a>
                                               </div>
                                               <div class="position-absolute top-0 left-0 pt-3 pl-4">
                                                 <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -670,7 +670,7 @@
                                           <div class="col-md-6">
                                             <div class="product-item__header">
                                               <div class="position-relative">
-                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/src/assets/open/img/300x230/img10.jpg"></a>
+                                                <a href="hotel-list.html#" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-150 card-img-top" src="/assets/open/img/300x230/img10.jpg"></a>
                                               </div>
                                               <div class="position-absolute top-0 left-0 pt-3 pl-4">
                                                 <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1237,22 +1237,22 @@
                                      data-arrow-right-classes="flaticon-next u-slick__arrow-classic-inner u-slick__arrow-classic-inner--right"
                                      data-pagi-classes="js-pagination text-center u-slick__pagination u-slick__pagination--white position-absolute right-0 bottom-0 left-0 mb-3 mb-0">
                                   <div class="js-slide">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-230 card-img-top" src="/src/assets/open/img/300x230/img58.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-230 card-img-top" src="/assets/open/img/300x230/img58.jpg"></a>
                                   </div>
                                   <div class="js-slide">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-230 card-img-top" src="/src/assets/open/img/300x230/img59.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-230 card-img-top" src="/assets/open/img/300x230/img59.jpg"></a>
                                   </div>
                                   <div class="js-slide">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-230 card-img-top" src="/src/assets/open/img/300x230/img60.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-230 card-img-top" src="/assets/open/img/300x230/img60.jpg"></a>
                                   </div>
                                   <div class="js-slide">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-230 card-img-top" src="/src/assets/open/img/300x230/img61.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-230 card-img-top" src="/assets/open/img/300x230/img61.jpg"></a>
                                   </div>
                                   <div class="js-slide">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-230 card-img-top" src="/src/assets/open/img/300x230/img62.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-230 card-img-top" src="/assets/open/img/300x230/img62.jpg"></a>
                                   </div>
                                   <div class="js-slide">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-230 card-img-top" src="/src/assets/open/img/300x230/img63.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5"><img class="img-fluid min-height-230 card-img-top" src="/assets/open/img/300x230/img63.jpg"></a>
                                   </div>
                                 </div>
 
@@ -1348,22 +1348,22 @@
                                      data-arrow-right-classes="flaticon-next u-slick__arrow-classic-inner u-slick__arrow-classic-inner--right"
                                      data-pagi-classes="js-pagination text-center u-slick__pagination u-slick__pagination--white position-absolute right-0 bottom-0 left-0 mb-3 mb-0">
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img63.jpg"></a>
+                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img63.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img62.jpg"></a>
+                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img62.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img59.jpg"></a>
+                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img59.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img58.jpg"></a>
+                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img58.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img57.jpg"></a>
+                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img57.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img56.jpg"></a>
+                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img56.jpg"></a>
                                   </div>
                                 </div>
                               </div>
@@ -1457,22 +1457,22 @@
                                      data-arrow-right-classes="flaticon-next u-slick__arrow-classic-inner u-slick__arrow-classic-inner--right"
                                      data-pagi-classes="js-pagination text-center u-slick__pagination u-slick__pagination--white position-absolute right-0 bottom-0 left-0 mb-3 mb-0">
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img62.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img62.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img63.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img63.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img57.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img57.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img59.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img59.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img61.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img61.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img58.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img58.jpg"></a>
                                   </div>
                                 </div>
                               </div>
@@ -1566,22 +1566,22 @@
                                      data-arrow-right-classes="flaticon-next u-slick__arrow-classic-inner u-slick__arrow-classic-inner--right"
                                      data-pagi-classes="js-pagination text-center u-slick__pagination u-slick__pagination--white position-absolute right-0 bottom-0 left-0 mb-3 mb-0">
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img59.jpg"></a>
+                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img59.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img58.jpg"></a>
+                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img58.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img60.jpg"></a>
+                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img60.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img61.jpg"></a>
+                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img61.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img62.jpg"></a>
+                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img62.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img63.jpg"></a>
+                                    <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img63.jpg"></a>
                                   </div>
                                 </div>
                               </div>
@@ -1676,22 +1676,22 @@
                                      data-arrow-right-classes="flaticon-next u-slick__arrow-classic-inner u-slick__arrow-classic-inner--right"
                                      data-pagi-classes="js-pagination text-center u-slick__pagination u-slick__pagination--white position-absolute right-0 bottom-0 left-0 mb-3 mb-0">
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img63.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img63.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img62.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img62.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img61.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img61.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img60.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img60.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img59.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img59.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img58.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img58.jpg"></a>
                                   </div>
                                 </div>
                               </div>
@@ -1785,22 +1785,22 @@
                                      data-arrow-right-classes="flaticon-next u-slick__arrow-classic-inner u-slick__arrow-classic-inner--right"
                                      data-pagi-classes="js-pagination text-center u-slick__pagination u-slick__pagination--white position-absolute right-0 bottom-0 left-0 mb-3 mb-0">
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img11.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img11.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img9.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img9.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img10.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img10.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img12.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img12.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img63.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img63.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img58.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img58.jpg"></a>
                                   </div>
                                 </div>
                               </div>
@@ -1894,22 +1894,22 @@
                                      data-arrow-right-classes="flaticon-next u-slick__arrow-classic-inner u-slick__arrow-classic-inner--right"
                                      data-pagi-classes="js-pagination text-center u-slick__pagination u-slick__pagination--white position-absolute right-0 bottom-0 left-0 mb-3 mb-0">
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img12.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img12.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img59.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img59.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img60.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img60.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img13.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img13.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img63.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img63.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img9.jpg"></a>
+                                    <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img9.jpg"></a>
                                   </div>
                                 </div>
                               </div>
@@ -2004,22 +2004,22 @@
                                      data-arrow-right-classes="flaticon-next u-slick__arrow-classic-inner u-slick__arrow-classic-inner--right"
                                      data-pagi-classes="js-pagination text-center u-slick__pagination u-slick__pagination--white position-absolute right-0 bottom-0 left-0 mb-3 mb-0">
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img60.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img60.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img59.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img59.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img61.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img61.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img62.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img62.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img13.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img13.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img10.jpg"></a>
+                                    <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img10.jpg"></a>
                                   </div>
                                 </div>
                               </div>
@@ -2113,22 +2113,22 @@
                                      data-arrow-right-classes="flaticon-next u-slick__arrow-classic-inner u-slick__arrow-classic-inner--right"
                                      data-pagi-classes="js-pagination text-center u-slick__pagination u-slick__pagination--white position-absolute right-0 bottom-0 left-0 mb-3 mb-0">
                                   <div class="js-slide w-100">
-                                    <a href="https://transvelo.github.io/mytravel-html/html/hotels/hotels-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img59.jpg"></a>
+                                    <a href="https://transvelo.github.io/mytravel-html/html/hotels/hotels-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img59.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="https://transvelo.github.io/mytravel-html/html/hotels/hotels-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img10.jpg"></a>
+                                    <a href="https://transvelo.github.io/mytravel-html/html/hotels/hotels-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img10.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="https://transvelo.github.io/mytravel-html/html/hotels/hotels-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img61.jpg"></a>
+                                    <a href="https://transvelo.github.io/mytravel-html/html/hotels/hotels-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img61.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="https://transvelo.github.io/mytravel-html/html/hotels/hotels-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img22.jpg"></a>
+                                    <a href="https://transvelo.github.io/mytravel-html/html/hotels/hotels-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img22.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="https://transvelo.github.io/mytravel-html/html/hotels/hotels-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img33.jpg"></a>
+                                    <a href="https://transvelo.github.io/mytravel-html/html/hotels/hotels-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img33.jpg"></a>
                                   </div>
                                   <div class="js-slide w-100">
-                                    <a href="https://transvelo.github.io/mytravel-html/html/hotels/hotels-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/src/assets/open/img/300x230/img60.jpg"></a>
+                                    <a href="https://transvelo.github.io/mytravel-html/html/hotels/hotels-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5 w-100"><img class="min-height-230 card-img-top" src="/assets/open/img/300x230/img60.jpg"></a>
                                   </div>
                                 </div>
                               </div>
@@ -2241,7 +2241,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img9.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img9.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2287,7 +2287,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img10.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img10.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2333,7 +2333,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img12.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img12.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2379,7 +2379,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img11.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img11.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2425,7 +2425,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img57.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img57.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2471,7 +2471,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img58.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img58.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2517,7 +2517,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img59.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img59.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2563,7 +2563,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img60.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img60.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2609,7 +2609,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img61.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img61.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2655,7 +2655,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img62.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img62.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2701,7 +2701,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img61.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img61.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2747,7 +2747,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img61.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img61.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2793,7 +2793,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img10.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img10.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2839,7 +2839,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img12.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img12.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2885,7 +2885,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img11.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img11.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2931,7 +2931,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img59.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img59.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2977,7 +2977,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img60.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img60.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -3023,7 +3023,7 @@
                       <div class="card transition-3d-hover shadow-hover-2 tab-card h-100">
                         <div class="position-relative">
                           <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                            <img class="min-height-230 bg-img-hero card-img-top" src="/src/assets/open/img/300x230/img61.jpg" alt="img">
+                            <img class="min-height-230 bg-img-hero card-img-top" src="/assets/open/img/300x230/img61.jpg" alt="img">
                           </a>
                           <div class="position-absolute top-0 right-0 pt-3 pr-3">
                             <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">

@@ -602,7 +602,7 @@
                     </div>
                     <div class="col-12 col-xl">
                       <!-- Banner Image -->
-                      <div class="u-header__banner u-header__banner-no-overlay rounded-xs" style="background-image: url(/src/assets/open/img/240x243/img1.jpg);">
+                      <div class="u-header__banner u-header__banner-no-overlay rounded-xs" style="background-image: url(/assets/open/img/240x243/img1.jpg);">
                         <div class="u-header__banner-content u-header__banner-content-not-centered">
                           <span class="u-header__banner-title">Special Offers</span>
                           <p class="u-header__banner-text">Find Your Perfect Hotels Get the best prices on 20,000+ properties the best  prices on</p>
@@ -744,7 +744,7 @@
                   <div class="px-2 px-md-3 py-2 py-md-1 border-bottom border-color-8">
                     <div class="media p-2 p-md-3">
                       <div class="u-avatar u-lg-avatar-md mr-2 mr-md-3">
-                        <img class="img-fluid rounded-pill" src="/src/assets/open/img/80x80/img1.jpg" alt="Image Description">
+                        <img class="img-fluid rounded-pill" src="/assets/open/img/80x80/img1.jpg" alt="Image Description">
                       </div>
                       <div class="media-body position-relative pl-md-1">
                         <div class="d-flex justify-content-between align-items-start mb-2 mb-md-3">
@@ -760,7 +760,7 @@
                   <div class="px-2 px-md-3 py-2 py-md-1 border-bottom border-color-8">
                     <div class="media p-2 p-md-3">
                       <div class="u-avatar u-lg-avatar-md mr-2 mr-md-3">
-                        <img class="img-fluid rounded-pill" src="/src/assets/open/img/80x80/img2.jpg" alt="Image Description">
+                        <img class="img-fluid rounded-pill" src="/assets/open/img/80x80/img2.jpg" alt="Image Description">
                       </div>
                       <div class="media-body position-relative pl-md-1">
                         <div class="d-flex justify-content-between align-items-start mb-2 mb-md-3">

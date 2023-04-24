@@ -58,22 +58,22 @@
                      data-arrow-right-classes="flaticon-next u-slick__arrow-classic-inner u-slick__arrow-classic-inner--right mr-lg-2 mr-xl-4"
                      data-nav-for="#sliderSyncingThumb">
                   <div class="js-slide">
-                    <img class="img-fluid border-radius-3" src="/src/assets/open/img/960x490/img7.jpg" alt="Image Description">
+                    <img class="img-fluid border-radius-3" src="/assets/open/img/960x490/img7.jpg" alt="Image Description">
                   </div>
                   <div class="js-slide">
-                    <img class="img-fluid border-radius-3" src="/src/assets/open/img/960x490/img8.jpg" alt="Image Description">
+                    <img class="img-fluid border-radius-3" src="/assets/open/img/960x490/img8.jpg" alt="Image Description">
                   </div>
                   <div class="js-slide">
-                    <img class="img-fluid border-radius-3" src="/src/assets/open/img/960x490/img9.jpg" alt="Image Description">
+                    <img class="img-fluid border-radius-3" src="/assets/open/img/960x490/img9.jpg" alt="Image Description">
                   </div>
                   <div class="js-slide">
-                    <img class="img-fluid border-radius-3" src="/src/assets/open/img/960x490/img10.jpg" alt="Image Description">
+                    <img class="img-fluid border-radius-3" src="/assets/open/img/960x490/img10.jpg" alt="Image Description">
                   </div>
                   <div class="js-slide">
-                    <img class="img-fluid border-radius-3" src="/src/assets/open/img/960x490/img11.jpg" alt="Image Description">
+                    <img class="img-fluid border-radius-3" src="/assets/open/img/960x490/img11.jpg" alt="Image Description">
                   </div>
                   <div class="js-slide">
-                    <img class="img-fluid border-radius-3" src="/src/assets/open/img/960x490/img12.jpg" alt="Image Description">
+                    <img class="img-fluid border-radius-3" src="/assets/open/img/960x490/img12.jpg" alt="Image Description">
                   </div>
                 </div>
 
@@ -99,22 +99,22 @@
                                         }
                                     }]'>
                   <div class="js-slide" style="cursor: pointer;">
-                    <img class="img-fluid border-radius-3 height-110" src="/src/assets/open/img/960x490/img7.jpg" alt="Image Description">
+                    <img class="img-fluid border-radius-3 height-110" src="/assets/open/img/960x490/img7.jpg" alt="Image Description">
                   </div>
                   <div class="js-slide" style="cursor: pointer;">
-                    <img class="img-fluid border-radius-3 height-110" src="/src/assets/open/img/960x490/img8.jpg" alt="Image Description">
+                    <img class="img-fluid border-radius-3 height-110" src="/assets/open/img/960x490/img8.jpg" alt="Image Description">
                   </div>
                   <div class="js-slide" style="cursor: pointer;">
-                    <img class="img-fluid border-radius-3 height-110" src="/src/assets/open/img/960x490/img9.jpg" alt="Image Description">
+                    <img class="img-fluid border-radius-3 height-110" src="/assets/open/img/960x490/img9.jpg" alt="Image Description">
                   </div>
                   <div class="js-slide" style="cursor: pointer;">
-                    <img class="img-fluid border-radius-3 height-110" src="/src/assets/open/img/960x490/img10.jpg" alt="Image Description">
+                    <img class="img-fluid border-radius-3 height-110" src="/assets/open/img/960x490/img10.jpg" alt="Image Description">
                   </div>
                   <div class="js-slide" style="cursor: pointer;">
-                    <img class="img-fluid border-radius-3 height-110" src="/src/assets/open/img/960x490/img11.jpg" alt="Image Description">
+                    <img class="img-fluid border-radius-3 height-110" src="/assets/open/img/960x490/img11.jpg" alt="Image Description">
                   </div>
                   <div class="js-slide" style="cursor: pointer;">
-                    <img class="img-fluid border-radius-3 height-110" src="/src/assets/open/img/960x490/img12.jpg" alt="Image Description">
+                    <img class="img-fluid border-radius-3 height-110" src="/assets/open/img/960x490/img12.jpg" alt="Image Description">
                   </div>
                 </div>
                 <!-- End Images Carousel -->
@@ -151,7 +151,7 @@
                       <div class="pt-5 pb-md-5 pl-4 pr-4 pl-md-5 pr-md-2 pr-xl-2">
                         <div class="product-item__header mt-2 mt-md-0">
                           <div class="position-relative">
-                            <img class="img-fluid rounded-sm" src="/src/assets/open/img/200x154/img1.jpg" alt="Image Description">
+                            <img class="img-fluid rounded-sm" src="/assets/open/img/200x154/img1.jpg" alt="Image Description">
                           </div>
                         </div>
                       </div>
@@ -330,27 +330,27 @@
                                        data-arrow-left-classes="fas fa-arrow-left font-size-23 bg-transparent text-white u-slick__arrow-classic-inner u-slick__arrow-classic-inner--left ml-lg-2 ml-xl-4"
                                        data-arrow-right-classes="fas fa-arrow-right font-size-23 bg-transparent text-white u-slick__arrow-classic-inner u-slick__arrow-classic-inner--right mr-lg-2 mr-xl-4">
                                     <div class="js-slide gradient-overlay-half-bg-gradient-v7">
-                                      <img class="img-fluid w-100 position-relative" src="/src/assets/open/img/960x760/img1.jpg" alt="Image Description">
+                                      <img class="img-fluid w-100 position-relative" src="/assets/open/img/960x760/img1.jpg" alt="Image Description">
                                       <h6 class="z-index-2 font-weight-bold text-white font-size-18 ml-4 mb-4 position-absolute bottom-0">Swimming Pool</h6>
                                     </div>
                                     <div class="js-slide gradient-overlay-half-bg-gradient-v7">
-                                      <img class="img-fluid w-100 position-relative" src="/src/assets/open/img/960x760/img1.jpg" alt="Image Description">
+                                      <img class="img-fluid w-100 position-relative" src="/assets/open/img/960x760/img1.jpg" alt="Image Description">
                                       <h6 class="z-index-2 font-weight-bold text-white font-size-18 ml-4 mb-4 position-absolute bottom-0">Bed</h6>
                                     </div>
                                     <div class="js-slide gradient-overlay-half-bg-gradient-v7">
-                                      <img class="img-fluid w-100 position-relative" src="/src/assets/open/img/960x760/img1.jpg" alt="Image Description">
+                                      <img class="img-fluid w-100 position-relative" src="/assets/open/img/960x760/img1.jpg" alt="Image Description">
                                       <h6 class="z-index-2 font-weight-bold text-white font-size-18 ml-4 mb-4 position-absolute bottom-0">Hotel</h6>
                                     </div>
                                     <div class="js-slide gradient-overlay-half-bg-gradient-v7">
-                                      <img class="img-fluid w-100 position-relative" src="/src/assets/open/img/960x760/img1.jpg" alt="Image Description">
+                                      <img class="img-fluid w-100 position-relative" src="/assets/open/img/960x760/img1.jpg" alt="Image Description">
                                       <h6 class="z-index-2 font-weight-bold text-white font-size-18 ml-4 mb-4 position-absolute bottom-0">Park</h6>
                                     </div>
                                     <div class="js-slide gradient-overlay-half-bg-gradient-v7">
-                                      <img class="img-fluid w-100 position-relative" src="/src/assets/open/img/960x760/img1.jpg" alt="Image Description">
+                                      <img class="img-fluid w-100 position-relative" src="/assets/open/img/960x760/img1.jpg" alt="Image Description">
                                       <h6 class="z-index-2 font-weight-bold text-white font-size-18 ml-4 mb-4 position-absolute bottom-0">River</h6>
                                     </div>
                                     <div class="js-slide gradient-overlay-half-bg-gradient-v7">
-                                      <img class="img-fluid w-100 position-relative" src="/src/assets/open/img/960x760/img1.jpg" alt="Image Description">
+                                      <img class="img-fluid w-100 position-relative" src="/assets/open/img/960x760/img1.jpg" alt="Image Description">
                                       <h6 class="z-index-2 font-weight-bold text-white font-size-18 ml-4 mb-4 position-absolute bottom-0">Guest House</h6>
                                     </div>
                                   </div>
@@ -389,7 +389,7 @@
                       <div class="pt-5 pb-md-5 pl-4 pr-4 pl-md-5 pr-md-2 pr-xl-2">
                         <div class="product-item__header mt-2 mt-md-0">
                           <div class="position-relative">
-                            <img class="img-fluid rounded-sm" src="/src/assets/open/img/200x154/img2.jpg" alt="Image Description">
+                            <img class="img-fluid rounded-sm" src="/assets/open/img/200x154/img2.jpg" alt="Image Description">
                           </div>
                         </div>
                       </div>
@@ -475,7 +475,7 @@
                       <div class="pt-5 pb-md-5 pl-4 pr-4 pl-md-5 pr-md-2 pr-xl-2">
                         <div class="product-item__header mt-2 mt-md-0">
                           <div class="position-relative">
-                            <img class="img-fluid rounded-sm" src="/src/assets/open/img/200x154/img3.jpg" alt="Image Description">
+                            <img class="img-fluid rounded-sm" src="/assets/open/img/200x154/img3.jpg" alt="Image Description">
                           </div>
                         </div>
                       </div>
@@ -846,7 +846,7 @@
               <div class="media flex-column flex-md-row align-items-center align-items-md-start mb-4">
                 <div class="mr-md-5">
                   <a class="d-block" href="hotel-single-v1.html#">
-                    <img class="img-fluid mb-3 mb-md-0 rounded-circle" src="/src/assets/open/img/85x85/img1.jpg" alt="Image-Description">
+                    <img class="img-fluid mb-3 mb-md-0 rounded-circle" src="/assets/open/img/85x85/img1.jpg" alt="Image-Description">
                   </a>
                 </div>
                 <div class="media-body text-center text-md-left">
@@ -889,7 +889,7 @@
               <div class="media flex-column flex-md-row align-items-center align-items-md-start mb-0">
                 <div class="mr-md-5">
                   <a class="d-block" href="hotel-single-v1.html#">
-                    <img class="img-fluid mb-3 mb-md-0 rounded-circle" src="/src/assets/open/img/85x85/img2.jpg" alt="Image-Description">
+                    <img class="img-fluid mb-3 mb-md-0 rounded-circle" src="/assets/open/img/85x85/img2.jpg" alt="Image-Description">
                   </a>
                 </div>
                 <div class="media-body text-center text-md-left">
@@ -1173,7 +1173,7 @@
               <div class="border border-color-7 rounded px-4 pt-4 pb-3 mb-5">
                 <div class="px-2 pt-2">
                   <a href="https://goo.gl/maps/kCVqYkjHX3XvoC4B9" class="d-block border rounded mb-4">
-                    <img class="img-fluid" src="/src/assets/open/img/map-markers/map.jpg" alt="Image-Description">
+                    <img class="img-fluid" src="/assets/open/img/map-markers/map.jpg" alt="Image-Description">
                   </a>
                   <div class="flex-horizontal-center mb-4">
                     <div class="border-primary border rounded-xs px-3 text-lh-1dot7 py-1">
@@ -1248,7 +1248,7 @@
                 <div class="card transition-3d-hover shadow-hover-2 w-100 mt-2">
                   <div class="position-relative">
                     <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                      <img class="card-img-top" src="/src/assets/open/img/300x230/img9.jpg" alt="Image Description">
+                      <img class="card-img-top" src="/assets/open/img/300x230/img9.jpg" alt="Image Description">
                     </a>
                     <div class="position-absolute top-0 right-0 pt-3 pr-3">
                       <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1294,7 +1294,7 @@
                 <div class="card transition-3d-hover shadow-hover-2 w-100 mt-2">
                   <div class="position-relative">
                     <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                      <img class="card-img-top" src="/src/assets/open/img/300x230/img10.jpg" alt="Image Description">
+                      <img class="card-img-top" src="/assets/open/img/300x230/img10.jpg" alt="Image Description">
                     </a>
                     <div class="position-absolute top-0 right-0 pt-3 pr-3">
                       <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1340,7 +1340,7 @@
                 <div class="card transition-3d-hover shadow-hover-2 w-100 mt-2">
                   <div class="position-relative">
                     <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                      <img class="card-img-top" src="/src/assets/open/img/300x230/img12.jpg" alt="Image Description">
+                      <img class="card-img-top" src="/assets/open/img/300x230/img12.jpg" alt="Image Description">
                     </a>
                     <div class="position-absolute top-0 right-0 pt-3 pr-3">
                       <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1386,7 +1386,7 @@
                 <div class="card transition-3d-hover shadow-hover-2 w-100 mt-2">
                   <div class="position-relative">
                     <a href="hotel-single-v2.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                      <img class="card-img-top" src="/src/assets/open/img/300x230/img11.jpg" alt="Image Description">
+                      <img class="card-img-top" src="/assets/open/img/300x230/img11.jpg" alt="Image Description">
                     </a>
                     <div class="position-absolute top-0 right-0 pt-3 pr-3">
                       <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1432,7 +1432,7 @@
                 <div class="card transition-3d-hover shadow-hover-2 w-100 mt-2">
                   <div class="position-relative">
                     <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                      <img class="card-img-top" src="/src/assets/open/img/300x230/img9.jpg" alt="Image Description">
+                      <img class="card-img-top" src="/assets/open/img/300x230/img9.jpg" alt="Image Description">
                     </a>
                     <div class="position-absolute top-0 right-0 pt-3 pr-3">
                       <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1478,7 +1478,7 @@
                 <div class="card transition-3d-hover shadow-hover-2 w-100 mt-2">
                   <div class="position-relative">
                     <a href="https://transvelo.github.io/mytravel-html/html/hotels/hotel/single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                      <img class="card-img-top" src="/src/assets/open/img/300x230/img12.jpg" alt="Image Description">
+                      <img class="card-img-top" src="/assets/open/img/300x230/img12.jpg" alt="Image Description">
                     </a>
                     <div class="position-absolute top-0 right-0 pt-3 pr-3">
                       <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1524,7 +1524,7 @@
                 <div class="card transition-3d-hover shadow-hover-2 w-100 mt-2">
                   <div class="position-relative">
                     <a href="hotel-single-v3.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                      <img class="card-img-top" src="/src/assets/open/img/300x230/img9.jpg" alt="Image Description">
+                      <img class="card-img-top" src="/assets/open/img/300x230/img9.jpg" alt="Image Description">
                     </a>
                     <div class="position-absolute top-0 right-0 pt-3 pr-3">
                       <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1570,7 +1570,7 @@
                 <div class="card transition-3d-hover shadow-hover-2 w-100 mt-2">
                   <div class="position-relative">
                     <a href="hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                      <img class="card-img-top" src="/src/assets/open/img/300x230/img11.jpg" alt="Image Description">
+                      <img class="card-img-top" src="/assets/open/img/300x230/img11.jpg" alt="Image Description">
                     </a>
                     <div class="position-absolute top-0 right-0 pt-3 pr-3">
                       <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">

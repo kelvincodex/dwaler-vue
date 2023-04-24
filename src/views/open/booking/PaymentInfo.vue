@@ -16,7 +16,7 @@
                   <i class="flaticon-tick text-white font-size-15"></i>
                 </div>
                 <div class="d-md-flex justify-content-md-center align-items-md-center flex-wrap">
-                  <img class="img-fluid mb-3" src="../../../assets/open/img/199x35/img1.jpg" alt="Image-Description">
+                  <img class="img-fluid mb-3" src="/assets/open/img/199x35/img1.jpg" alt="Image-Description">
                   <div class="w-100 text-dark">Payment with credit card</div>
                 </div>
               </a>
@@ -27,7 +27,7 @@
                   <i class="flaticon-tick text-white font-size-15"></i>
                 </div>
                 <div class="d-md-flex justify-content-md-center align-items-md-center flex-wrap">
-                  <img class="img-fluid mb-3" src="../../../assets/open/img/199x35/img2.jpg" alt="Image-Description">
+                  <img class="img-fluid mb-3" src="/assets/open/img/199x35/img2.jpg" alt="Image-Description">
                   <div class="w-100 text-dark">Payment with paypal</div>
                 </div>
               </a>
@@ -205,7 +205,7 @@
         <div class="shadow-soft bg-white rounded-sm">
         <div class="pt-5 pb-3 px-5 border-bottom">
           <a href="hotel-booking.html#" class="d-block mb-3">
-            <img class="img-fluid rounded-xs" src="../../../assets/open/img/240x160/img3.jpg" alt="Image-Description">
+            <img class="img-fluid rounded-xs" src="/assets/open/img/240x160/img3.jpg" alt="Image-Description">
           </a>
           <a href="hotel-booking.html#" class="text-dark font-weight-bold pr-xl-1">Park Avenue Baker Street London</a>
           <div class="my-1 flex-horizontal-center text-gray-1">
