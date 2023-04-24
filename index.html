@@ -26,72 +26,74 @@
   <body>
     <div id="app"></div>
     <script type="module" src="/src/main.js"></script>
-    <!-- JS Global Compulsory -->
-    <script type="application/javascript"  src="/assets/open/vendor/jquery/dist/jquery.min.js"></script>
-    <script type="application/javascript"  src="/assets/open/vendor/jquery-migrate/dist/jquery-migrate.min.js"></script>
-    <script type="application/javascript"  src="/assets/open/vendor/popper.js/dist/umd/popper.min.js"></script>
-    <script type="application/javascript"  src="/assets/open/vendor/bootstrap/bootstrap.min.js"></script>
+<!--    -->
+<!--    &lt;!&ndash; JS Global Compulsory &ndash;&gt;-->
+<!--    <script   src="/assets/open/vendor/jquery/dist/jquery.min.js"></script>-->
+<!--    <script type="application/javascript"  src="/"></script>-->
+<!--    <script type="application/javascript"  src="/assets/open/vendor/popper.js/dist/umd/popper.min.js"></script>-->
+<!--    <script type="application/javascript"  src="/assets/open/vendor/bootstrap/bootstrap.min.js"></script>-->
 
-    <!-- JS Implementing Plugins -->
-    <script type="application/javascript"  src="/assets/open/vendor/hs-megamenu/src/hs.megamenu.js"></script>
-    <script type="application/javascript"  src="/assets/open/vendor/jquery-validation/dist/jquery.validate.min.js"></script>
-    <script type="application/javascript"  src="/assets/open/vendor/flatpickr/dist/flatpickr.min.js"></script>
-    <script type="application/javascript"  src="/assets/open/vendor/bootstrap-select/dist/js/bootstrap-select.min.js"></script>
-    <script type="application/javascript"  src="/assets/open/vendor/slick-carousel/slick/slick.js"></script>
+<!--    &lt;!&ndash; JS Implementing Plugins &ndash;&gt;-->
+<!--    <script type="application/javascript"  src="/assets/open/vendor/hs-megamenu/src/hs.megamenu.js"></script>-->
+<!--    <script type="application/javascript"  src="/assets/open/vendor/jquery-validation/dist/jquery.validate.min.js"></script>-->
+<!--    <script type="application/javascript"  src="/assets/open/vendor/flatpickr/dist/flatpickr.min.js"></script>-->
+<!--    <script type="application/javascript"  src="/assets/open/vendor/bootstrap-select/dist/js/bootstrap-select.min.js"></script>-->
+<!--    <script type="application/javascript"  src="/assets/open/vendor/slick-carousel/slick/slick.js"></script>-->
 
-    <!-- JS MyTravel -->
-    <script type="application/javascript"  src="/assets/open/js/hs.core.js"></script>
-    <script type="application/javascript"  src="/assets/open/js/components/hs.header.js"></script>
-    <script type="application/javascript"  src="/assets/open/js/components/hs.unfold.js"></script>
-    <script type="application/javascript"  src="/assets/open/js/components/hs.validation.js"></script>
-    <script type="application/javascript"  src="/assets/open/js/components/hs.show-animation.js"></script>
-    <script type="application/javascript"  src="/assets/open/js/components/hs.range-datepicker.js"></script>
-    <script type="application/javascript"  src="/assets/open/js/components/hs.selectpicker.js"></script>
-    <script type="application/javascript"  src="/assets/open/js/components/hs.go-to.js"></script>
-    <script type="application/javascript"  src="/assets/open/js/components/hs.slick-carousel.js"></script>
-    <script type="application/javascript"  src="/assets/open/js/components/hs.quantity-counter.js"></script>
-    <!-- JS Plugins Init. -->
-    <script type="application/javascript" >
-        $(window).on('load', function () {
-            // initialization of HSMegaMenu component
-            $('.js-mega-menu').HSMegaMenu({
-                event: 'hover',
-                pageContainer: $('.container'),
-                breakpoint: 1199.98,
-                hideTimeOut: 0
-            });
+<!--    &lt;!&ndash; JS MyTravel &ndash;&gt;-->
+<!--    <script type="application/javascript"  src="/assets/open/js/hs.core.js"></script>-->
+<!--    <script type="application/javascript"  src="/assets/open/js/components/hs.header.js"></script>-->
+<!--    <script type="application/javascript"  src="/assets/open/js/components/hs.unfold.js"></script>-->
+<!--    <script type="application/javascript"  src="/assets/open/js/components/hs.validation.js"></script>-->
+<!--    <script type="application/javascript"  src="/assets/open/js/components/hs.show-animation.js"></script>-->
+<!--    <script type="application/javascript"  src="/assets/open/js/components/hs.range-datepicker.js"></script>-->
+<!--    <script type="application/javascript"  src="/assets/open/js/components/hs.selectpicker.js"></script>-->
+<!--    <script type="application/javascript"  src="/assets/open/js/components/hs.go-to.js"></script>-->
+<!--    <script type="application/javascript"  src="/assets/open/js/components/hs.slick-carousel.js"></script>-->
+<!--    <script type="application/javascript"  src="/assets/open/js/components/hs.quantity-counter.js"></script>-->
+<!--    &lt;!&ndash; JS Plugins Init. &ndash;&gt;-->
+<!--    <script type="application/javascript" >-->
+<!--        $(window).on('load', function () {-->
+<!--            // initialization of HSMegaMenu component-->
+<!--            $('.js-mega-menu').HSMegaMenu({-->
+<!--                event: 'hover',-->
+<!--                pageContainer: $('.container'),-->
+<!--                breakpoint: 1199.98,-->
+<!--                hideTimeOut: 0-->
+<!--            });-->
 
-            // Page preloader
-            setTimeout(function() {
-                $('#jsPreloader').fadeOut(500)
-            }, 800);
-        });
+<!--            // Page preloader-->
+<!--            setTimeout(function() {-->
+<!--                $('#jsPreloader').fadeOut(500)-->
+<!--            }, 800);-->
+<!--        });-->
 
-        $(document).on('ready', function () {
-            // initialization of header
-            $.HSCore.components.HSHeader.init($('#header'));
+<!--        $(document).on('ready', function () {-->
+<!--            // initialization of header-->
+<!--            $.HSCore.components.HSHeader.init($('#header'));-->
 
-            // initialization of unfold component
-            $.HSCore.components.HSUnfold.init($('[data-unfold-target]'));
+<!--            // initialization of unfold component-->
+<!--            $.HSCore.components.HSUnfold.init($('[data-unfold-target]'));-->
 
-            // initialization of show animations
-            $.HSCore.components.HSShowAnimation.init('.js-animation-link');
+<!--            // initialization of show animations-->
+<!--            $.HSCore.components.HSShowAnimation.init('.js-animation-link');-->
 
-            // initialization of datepicker
-            $.HSCore.components.HSRangeDatepicker.init('.js-range-datepicker');
+<!--            // initialization of datepicker-->
+<!--            $.HSCore.components.HSRangeDatepicker.init('.js-range-datepicker');-->
 
-            // initialization of select
-            $.HSCore.components.HSSelectPicker.init('.js-select');
+<!--            // initialization of select-->
+<!--            $.HSCore.components.HSSelectPicker.init('.js-select');-->
 
-            // initialization of quantity counter
-            $.HSCore.components.HSQantityCounter.init('.js-quantity');
+<!--            // initialization of quantity counter-->
+<!--            $.HSCore.components.HSQantityCounter.init('.js-quantity');-->
 
-            // initialization of slick carousel
-            $.HSCore.components.HSSlickCarousel.init('.js-slick-carousel');
+<!--            // initialization of slick carousel-->
+<!--            $.HSCore.components.HSSlickCarousel.init('.js-slick-carousel');-->
 
-            // initialization of go to
-            $.HSCore.components.HSGoTo.init('.js-go-to');
-        });
-    </script>
+<!--            // initialization of go to-->
+<!--            $.HSCore.components.HSGoTo.init('.js-go-to');-->
+<!--        });-->
+<!--    </script>-->
+<!--  -->
   </body>
 </html>
