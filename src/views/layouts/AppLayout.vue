@@ -246,7 +246,7 @@
     import Header from "../../components/Header/Header.vue";
     import { loadScript } from "vue-plugin-load-script";
     import * as external from "../../assets/external.js"
-    import {onBeforeMount, onMounted, onUnmounted} from "vue";
+    import {computed, onBeforeMount, onMounted, onUnmounted} from "vue";
 
     const route = useRoute()
     const routeName = route.name
@@ -267,16 +267,11 @@
       //CSS MyTravel Template
       external.head_link("/assets/open/css/theme.css")
 
-
-    })
-    onMounted(()=>{
-      console.log("hii")
-
       //JS Global Compulsory
-      external.head_script("/assets/open/vendor/jquery/dist/jquery.min.js", false, true)
-      external.head_script("/assets/open/vendor/jquery-migrate/dist/jquery-migrate.min.js", false, true)
-      external.body_script("/assets/open/vendor/popper.js/dist/umd/popper.min.js")
-      external.body_script("/assets/open/vendor/bootstrap/bootstrap.min.js", true)
+      external.head_script("/assets/open/vendor/jquery/dist/jquery.min.js", )
+      external.head_script("/assets/open/vendor/jquery-migrate/dist/jquery-migrate.min.js", )
+      external.body_script("/assets/open/vendor/popper.js/dist/umd/popper.min.js", )
+      external.body_script("/assets/open/vendor/bootstrap/bootstrap.min.js", )
 
       // JS Implementing Plugins
       external.body_script("/assets/open/vendor/hs-megamenu/src/hs.megamenu.js")
@@ -296,7 +291,54 @@
       external.body_script("/assets/open/js/components/hs.go-to.js")
       external.body_script("/assets/open/js/components/hs.slick-carousel.js")
       external.body_script("/assets/open/js/components/hs.quantity-counter.js")
+
+      setTimeout(()=>{
+        console.log("hii")
+        $(window).on('load', function () {
+          // initialization of HSMegaMenu component
+          $('.js-mega-menu').HSMegaMenu({
+            event: 'hover',
+            pageContainer: $('.container'),
+            breakpoint: 1199.98,
+            hideTimeOut: 0
+          });
+
+          // Page preloader
+          setTimeout(function() {
+            $('#jsPreloader').fadeOut(500)
+          }, 800);
+        });
+
+        $(document).on('ready', function () {
+          // initialization of header
+          $.HSCore.components.HSHeader.init($('#header'));
+
+          // initialization of unfold component
+          $.HSCore.components.HSUnfold.init($('[data-unfold-target]'));
+
+          // initialization of show animations
+          $.HSCore.components.HSShowAnimation.init('.js-animation-link');
+
+          // initialization of datepicker
+          $.HSCore.components.HSRangeDatepicker.init('.js-range-datepicker');
+
+          // initialization of select
+          $.HSCore.components.HSSelectPicker.init('.js-select');
+
+          // initialization of quantity counter
+          $.HSCore.components.HSQantityCounter.init('.js-quantity');
+
+          // initialization of slick carousel
+          $.HSCore.components.HSSlickCarousel.init('.js-slick-carousel');
+
+          // initialization of go to
+          $.HSCore.components.HSGoTo.init('.js-go-to');
+        });
+      }, 1000)
+
+
     })
+
 
 
 </script>
