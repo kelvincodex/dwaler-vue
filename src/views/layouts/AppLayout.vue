@@ -244,35 +244,39 @@
     import HomeHeader from "../../components/Header/HomeHeader.vue";
     import Header from "../../components/Header/Header.vue";
     import { loadScript } from "vue-plugin-load-script";
+    import {onUnmounted} from "vue";
 
     const route = useRoute()
     const routeName = route.name
 
-    //JS Global Compulsory
-    loadScript("/assets/open/vendor/jquery/dist/jquery.min.js").then(()=>{
-      alert("Hello")
+    onUnmounted(()=>{
+      //JS Global Compulsory
+      loadScript("/assets/open/vendor/jquery/dist/jquery.min.js").then(()=>{
+        alert("Hello")
+      })
+      loadScript("/assets/open/vendor/jquery-migrate/dist/jquery-migrate.min.js")
+      loadScript("/assets/open/vendor/popper.js/dist/umd/popper.min.js")
+      loadScript("/assets/open/vendor/bootstrap/bootstrap.min.js")
+
+      // JS Implementing Plugins
+      loadScript("/assets/open/vendor/hs-megamenu/src/hs.megamenu.js")
+      loadScript("/assets/open/vendor/jquery-validation/dist/jquery.validate.min.js")
+      loadScript("/assets/open/vendor/flatpickr/dist/flatpickr.min.js")
+      loadScript("/assets/open/vendor/bootstrap-select/dist/js/bootstrap-select.min.js")
+      loadScript("/assets/open/vendor/slick-carousel/slick/slick.js")
+
+      //JS MyTravel
+      loadScript("/assets/open/js/hs.core.js")
+      loadScript("/assets/open/js/components/hs.header.js")
+      loadScript("/assets/open/js/components/hs.unfold.js")
+      loadScript("/assets/open/js/components/hs.validation.js")
+      loadScript("/assets/open/js/components/hs.show-animation.js")
+      loadScript("/assets/open/js/components/hs.range-datepicker.js")
+      loadScript("/assets/open/js/components/hs.selectpicker.js")
+      loadScript("/assets/open/js/components/hs.go-to.js")
+      loadScript("/assets/open/js/components/hs.slick-carousel.js")
+      loadScript("/assets/open/js/components/hs.quantity-counter.js")
     })
-    loadScript("/assets/open/vendor/jquery-migrate/dist/jquery-migrate.min.js")
-    loadScript("/assets/open/vendor/popper.js/dist/umd/popper.min.js")
-    loadScript("/assets/open/vendor/bootstrap/bootstrap.min.js")
 
-    // JS Implementing Plugins
-    loadScript("/assets/open/vendor/hs-megamenu/src/hs.megamenu.js")
-    loadScript("/assets/open/vendor/jquery-validation/dist/jquery.validate.min.js")
-    loadScript("/assets/open/vendor/flatpickr/dist/flatpickr.min.js")
-    loadScript("/assets/open/vendor/bootstrap-select/dist/js/bootstrap-select.min.js")
-    loadScript("/assets/open/vendor/slick-carousel/slick/slick.js")
-
-    //JS MyTravel
-    loadScript("/assets/open/js/hs.core.js")
-    loadScript("/assets/open/js/components/hs.header.js")
-    loadScript("/assets/open/js/components/hs.unfold.js")
-    loadScript("/assets/open/js/components/hs.validation.js")
-    loadScript("/assets/open/js/components/hs.show-animation.js")
-    loadScript("/assets/open/js/components/hs.range-datepicker.js")
-    loadScript("/assets/open/js/components/hs.selectpicker.js")
-    loadScript("/assets/open/js/components/hs.go-to.js")
-    loadScript("/assets/open/js/components/hs.slick-carousel.js")
-    loadScript("/assets/open/js/components/hs.quantity-counter.js")
 
 </script>
