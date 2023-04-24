@@ -3032,6 +3032,7 @@ import {useMeta} from "vue-meta";
 import Stay from "../../components/tab/hero/Stay.vue";
 
  useMeta({
-  title:"Home"
+  title:"Home",
+
 })
 </script>

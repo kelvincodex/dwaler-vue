@@ -1,15 +1,27 @@
-function head_script(src) {
+function head_script(src, async = false, defer = false) {
     if(document.querySelector("script[src='" + src + "']")){ return; }
     let script = document.createElement('script');
     script.setAttribute('src', src);
+    if (async){
+        script.setAttribute('async', '');
+    }
+    if (defer){
+        script.setAttribute('defer', '');
+    }
     script.setAttribute('type', 'text/javascript');
     document.head.appendChild(script)
 }
 
-function body_script(src) {
+function body_script(src, async = false, defer = false) {
     if(document.querySelector("script[src='" + src + "']")){ return; }
     let script = document.createElement('script');
     script.setAttribute('src', src);
+    if (async){
+        script.setAttribute('async', '');
+    }
+    if (defer){
+        script.setAttribute('defer', '');
+    }
     script.setAttribute('type', 'text/javascript');
     document.body.appendChild(script)
 }

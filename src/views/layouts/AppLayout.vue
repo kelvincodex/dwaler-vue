@@ -246,12 +246,12 @@
     import Header from "../../components/Header/Header.vue";
     import { loadScript } from "vue-plugin-load-script";
     import * as external from "../../assets/external.js"
-    import {onMounted, onUnmounted} from "vue";
+    import {onBeforeMount, onMounted, onUnmounted} from "vue";
 
     const route = useRoute()
     const routeName = route.name
 
-    onMounted(()=>{
+    onBeforeMount(()=>{
       //Google Fonts
       external.head_link("https://fonts.googleapis.com/css?family=Lato&display=swap")
       external.head_link("https://fonts.googleapis.com/css?family=Rubik:300,400,500,700,900&amp;display=swap")
@@ -268,11 +268,15 @@
       external.head_link("/assets/open/css/theme.css")
 
 
+    })
+    onMounted(()=>{
+      console.log("hii")
+
       //JS Global Compulsory
-      external.head_script("/assets/open/vendor/jquery/dist/jquery.min.js")
-      external.body_script("/assets/open/vendor/jquery-migrate/dist/jquery-migrate.min.js")
+      external.head_script("/assets/open/vendor/jquery/dist/jquery.min.js", false, true)
+      external.head_script("/assets/open/vendor/jquery-migrate/dist/jquery-migrate.min.js", false, true)
       external.body_script("/assets/open/vendor/popper.js/dist/umd/popper.min.js")
-      external.body_script("/assets/open/vendor/bootstrap/bootstrap.min.js")
+      external.body_script("/assets/open/vendor/bootstrap/bootstrap.min.js", true)
 
       // JS Implementing Plugins
       external.body_script("/assets/open/vendor/hs-megamenu/src/hs.megamenu.js")

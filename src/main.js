@@ -10,4 +10,6 @@ const app = createApp(App)
     app.use(router)
     app.use(createMetaManager())
     app.use(LoadScript)
+
+    await router.isReady()
     app.mount('#app')
