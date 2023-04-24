@@ -74,7 +74,7 @@
           <div class="row mb-1">
             <!-- Card Block -->
             <div class="col-md-6 mb-3 mb-md-4">
-              <div class="min-height-350 bg-img-hero rounded-border p-5 gradient-overlay-half-bg-gradient transition-3d-hover shadow-hover-2 border-0 dropdown" style="background-image: url(/src/assets/open/img/630x350/img1.jpg);">
+              <div class="min-height-350 bg-img-hero rounded-border p-5 gradient-overlay-half-bg-gradient transition-3d-hover shadow-hover-2 border-0 dropdown" style="background-image: url(/assets/open/img/630x350/img1.jpg);">
                 <div class="w-100 d-flex justify-content-between mb-2">
                   <div class="position-relative">
                     <a href="others/destination.html" class="destination text-white font-weight-bold font-size-21 pb-3 mb-3 text-lh-1 d-block">United Kingdom</a>
@@ -96,7 +96,7 @@
 
             <!-- Card Block -->
             <div class="col-md-6 mb-3 mb-md-4">
-              <div class="min-height-350 bg-img-hero rounded-border p-5 gradient-overlay-half-bg-gradient transition-3d-hover shadow-hover-2 border-0 dropdown" style="background-image: url(/src/assets/open/img/630x350/img2.jpg);">
+              <div class="min-height-350 bg-img-hero rounded-border p-5 gradient-overlay-half-bg-gradient transition-3d-hover shadow-hover-2 border-0 dropdown" style="background-image: url(/assets/open/img/630x350/img2.jpg);">
                 <header class="w-100 d-flex justify-content-between mb-2">
                   <div class="position-relative">
                     <a href="others/destination.html" class="destination text-white font-weight-bold font-size-21 pb-3 mb-3 text-lh-1 d-block">Turkey</a>
@@ -119,7 +119,7 @@
 
             <!-- Card Block -->
             <div class="col-md-6 col-xl-3 mb-3 mb-md-4">
-              <div class="min-height-350 gradient-overlay-half-bg-gradient rounded-border p-5 bg-img-hero transition-3d-hover shadow-hover-2 border-0 dropdown" style="background-image: url(/src/assets/open/img/300x350/img1.jpg);">
+              <div class="min-height-350 gradient-overlay-half-bg-gradient rounded-border p-5 bg-img-hero transition-3d-hover shadow-hover-2 border-0 dropdown" style="background-image: url(/assets/open/img/300x350/img1.jpg);">
                 <header class="w-100 d-flex justify-content-between mb-2">
                   <div class="position-relative">
                     <a href="others/destination.html" class="destination text-white font-weight-bold font-size-21 pb-3 mb-3 text-lh-1 d-block">United States</a>
@@ -142,7 +142,7 @@
 
             <!-- Card Block -->
             <div class="col-md-6 col-xl-3 mb-3 mb-md-4">
-              <div class="min-height-350 gradient-overlay-half-bg-gradient rounded-border p-5 bg-img-hero transition-3d-hover shadow-hover-2 border-0 dropdown" style="background-image: url(/src/assets/open/img/300x350/img3.jpg);">
+              <div class="min-height-350 gradient-overlay-half-bg-gradient rounded-border p-5 bg-img-hero transition-3d-hover shadow-hover-2 border-0 dropdown" style="background-image: url(/assets/open/img/300x350/img3.jpg);">
                 <header class="w-100 d-flex justify-content-between mb-2">
                   <div class="position-relative">
                     <a href="others/destination.html" class="destination text-white font-weight-bold font-size-21 pb-3 mb-3 text-lh-1 d-block">Ukraine</a>
@@ -165,7 +165,7 @@
 
             <!-- Card Block -->
             <div class="col-md-6 col-xl-3 mb-3 mb-md-4">
-              <div class="min-height-350 gradient-overlay-half-bg-gradient rounded-border p-5 bg-img-hero transition-3d-hover shadow-hover-2 border-0 dropdown" style="background-image: url(/src/assets/open/img/300x350/img2.jpg);">
+              <div class="min-height-350 gradient-overlay-half-bg-gradient rounded-border p-5 bg-img-hero transition-3d-hover shadow-hover-2 border-0 dropdown" style="background-image: url(/assets/open/img/300x350/img2.jpg);">
                 <header class="w-100 d-flex justify-content-between mb-2">
                   <div class="position-relative">
                     <a href="others/destination.html" class="destination text-white font-weight-bold font-size-21 pb-3 mb-3 text-lh-1 d-block">France</a>
@@ -187,7 +187,7 @@
 
             <!-- Card Block -->
             <div class="col-md-6 col-xl-3 mb-3 mb-md-4">
-              <div class="min-height-350 gradient-overlay-half-bg-gradient rounded-border p-5 bg-img-hero transition-3d-hover shadow-hover-2 border-0 dropdown" style="background-image: url(/src/assets/open/img/300x350/img4.jpg);">
+              <div class="min-height-350 gradient-overlay-half-bg-gradient rounded-border p-5 bg-img-hero transition-3d-hover shadow-hover-2 border-0 dropdown" style="background-image: url(/assets/open/img/300x350/img4.jpg);">
                 <header class="w-100 d-flex justify-content-between mb-2">
                   <div class="position-relative">
                     <a href="others/destination.html" class="destination text-white font-weight-bold font-size-21 pb-3 mb-3 text-lh-1 d-block">India</a>
@@ -278,7 +278,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="tour/tour-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img1.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img1.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-primary px-4 py-2 font-size-14 font-weight-normal">Featured</span>
@@ -324,7 +324,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="tour/tour-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img2.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img2.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-danger px-3 ml-3 py-2 font-size-14 font-weight-normal">%25</span>
@@ -370,7 +370,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="tour/tour-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img3.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img3.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -413,7 +413,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="tour/tour-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img4.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img4.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -456,7 +456,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="tour/tour-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img5.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img5.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-primary px-4 py-2 font-size-14 font-weight-normal">Featured</span>
@@ -502,7 +502,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="tour/tour-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img6.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img6.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-danger px-3 ml-3 py-2 font-size-14 font-weight-normal">%25</span>
@@ -548,7 +548,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="tour/tour-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img7.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img7.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -591,7 +591,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="tour/tour-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img8.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img8.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -638,7 +638,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="hotels/hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img2.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img2.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-danger px-3 ml-3 py-2 font-size-14 font-weight-normal">%25</span>
@@ -686,7 +686,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="hotels/hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img5.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img5.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-primary px-4 py-2 font-size-14 font-weight-normal">Featured</span>
@@ -734,7 +734,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="hotels/hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img1.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img1.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-primary px-4 py-2 font-size-14 font-weight-normal">Featured</span>
@@ -782,7 +782,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="hotels/hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img4.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img4.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -827,7 +827,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="hotels/hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img8.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img8.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -872,7 +872,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="hotels/hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img3.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img3.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -917,7 +917,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="hotels/hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img6.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img6.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-danger px-3 ml-3 py-2 font-size-14 font-weight-normal">%25</span>
@@ -965,7 +965,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="hotels/hotel-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img7.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img7.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1014,7 +1014,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="activities/activities-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img7.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img7.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1059,7 +1059,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="activities/activities-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img3.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img3.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1104,7 +1104,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="activities/activities-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img5.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img5.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-primary px-4 py-2 font-size-14 font-weight-normal">Featured</span>
@@ -1152,7 +1152,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="activities/activities-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img8.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img8.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1197,7 +1197,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="activities/activities-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img1.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img1.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-primary px-4 py-2 font-size-14 font-weight-normal">Featured</span>
@@ -1245,7 +1245,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="activities/activities-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img2.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img2.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-danger px-3 ml-3 py-2 font-size-14 font-weight-normal">%25</span>
@@ -1293,7 +1293,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="activities/activities-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img4.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img4.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1338,7 +1338,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="activities/activities-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img6.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img6.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-danger px-3 ml-3 py-2 font-size-14 font-weight-normal">%25</span>
@@ -1390,7 +1390,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="rental/rental-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img5.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img5.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-primary px-4 py-2 font-size-14 font-weight-normal">Featured</span>
@@ -1438,7 +1438,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="rental/rental-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img8.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img8.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1483,7 +1483,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="rental/rental-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img2.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img2.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-danger px-3 ml-3 py-2 font-size-14 font-weight-normal">%25</span>
@@ -1531,7 +1531,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="rental/rental-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img1.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img1.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-primary px-4 py-2 font-size-14 font-weight-normal">Featured</span>
@@ -1579,7 +1579,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="rental/rental-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img4.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img4.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1624,7 +1624,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="rental/rental-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img3.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img3.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1669,7 +1669,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="rental/rental-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img6.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img6.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-danger px-3 ml-3 py-2 font-size-14 font-weight-normal">%25</span>
@@ -1717,7 +1717,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="rental/rental-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img7.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img7.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1766,7 +1766,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="cars/cars-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img4.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img4.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1811,7 +1811,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="cars/cars-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img2.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img2.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-danger px-3 ml-3 py-2 font-size-14 font-weight-normal">%25</span>
@@ -1859,7 +1859,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="cars/cars-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img3.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img3.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1904,7 +1904,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="cars/cars-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img1.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img1.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-primary px-4 py-2 font-size-14 font-weight-normal">Featured</span>
@@ -1952,7 +1952,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="cars/cars-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img7.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img7.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -1997,7 +1997,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="cars/cars-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img8.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img8.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2042,7 +2042,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="cars/cars-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img5.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img5.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-primary px-4 py-2 font-size-14 font-weight-normal">Featured</span>
@@ -2090,7 +2090,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="cars/cars-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img6.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img6.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-danger px-3 ml-3 py-2 font-size-14 font-weight-normal">%25</span>
@@ -2142,7 +2142,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="yacht/yacht-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img8.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img8.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2187,7 +2187,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="yacht/yacht-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img1.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img1.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-primary px-4 py-2 font-size-14 font-weight-normal">Featured</span>
@@ -2235,7 +2235,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="yacht/yacht-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img2.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img2.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-danger px-3 ml-3 py-2 font-size-14 font-weight-normal">%25</span>
@@ -2283,7 +2283,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="yacht/yacht-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img5.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img5.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-primary px-4 py-2 font-size-14 font-weight-normal">Featured</span>
@@ -2331,7 +2331,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="yacht/yacht-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img7.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img7.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2376,7 +2376,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="yacht/yacht-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img4.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img4.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2421,7 +2421,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="yacht/yacht-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img6.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img6.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-danger px-3 ml-3 py-2 font-size-14 font-weight-normal">%25</span>
@@ -2469,7 +2469,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="yacht/yacht-single-v1.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img3.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img3.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2518,7 +2518,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="flights/flights-list.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img1.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img1.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-primary px-4 py-2 font-size-14 font-weight-normal">Featured</span>
@@ -2566,7 +2566,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="flights/flights-list.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img2.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img2.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-danger px-3 ml-3 py-2 font-size-14 font-weight-normal">%25</span>
@@ -2614,7 +2614,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="flights/flights-list.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img5.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img5.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-primary px-4 py-2 font-size-14 font-weight-normal">Featured</span>
@@ -2662,7 +2662,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="flights/flights-list.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img4.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img4.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2707,7 +2707,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="flights/flights-list.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img3.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img3.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2752,7 +2752,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="flights/flights-list.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img8.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img8.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2797,7 +2797,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="flights/flights-list.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img6.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img6.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 left-0 pt-5 pl-3">
                         <span class="badge badge-pill bg-white text-danger px-3 ml-3 py-2 font-size-14 font-weight-normal">%25</span>
@@ -2845,7 +2845,7 @@
                   <div class="card mb-1 transition-3d-hover shadow-hover-2 tab-card h-100">
                     <div class="position-relative mb-2">
                       <a href="flights/flights-list.html" class="d-block gradient-overlay-half-bg-gradient-v5">
-                        <img class="card-img-top" src="/src/assets/open/img/300x230/img7.jpg" alt="img">
+                        <img class="card-img-top" src="/assets/open/img/300x230/img7.jpg" alt="img">
                       </a>
                       <div class="position-absolute top-0 right-0 pt-5 pr-3">
                         <button type="button" class="btn btn-sm btn-icon text-white rounded-circle" data-toggle="tooltip" data-placement="top" title="" data-original-title="Save for later">
@@ -2894,7 +2894,7 @@
       <!-- End Tabs v1 -->
 
       <!-- Banner v1-->
-      <div class="banner-block banner-v1 bg-img-hero space-3" style="background-image: url(/src/assets/open/img/1920x500/img1.jpg);">
+      <div class="banner-block banner-v1 bg-img-hero space-3" style="background-image: url(/assets/open/img/1920x500/img1.jpg);">
         <div class="max-width-650 mx-auto text-center mt-xl-5 mb-xl-2 px-3 px-md-0">
           <h6 class="text-white font-size-40 font-weight-bold mb-1">Travel Tips</h6>
           <p class="text-white font-size-18 font-weight-normal mb-4 pb-1 px-md-3 px-lg-0">Northern Ireland’s is now contingent. Britain is getting a divorce Northern Ireland is being offered a trial separation for Britain there is a one</p>
@@ -2953,7 +2953,7 @@
                data-pagi-classes="d-lg-none text-center u-slick__pagination mt-4" data-responsive='[ { "breakpoint": 1025, "settings": { "slidesToShow": 3 } }, { "breakpoint": 992, "settings": { "slidesToShow": 2 } }, { "breakpoint": 768, "settings": { "slidesToShow": 1 } }, { "breakpoint": 554, "settings": { "slidesToShow": 1 } } ]'>
             <div class="js-slide mb-4">
               <a class="d-block rounded-xs overflow-hidden mb-3" href="blog/blog-single.html">
-                <img class="img-fluid w-100" src="/src/assets/open/img/410x300/img1.jpg" alt="Image-Description">
+                <img class="img-fluid w-100" src="/assets/open/img/410x300/img1.jpg" alt="Image-Description">
               </a>
               <h6 class="font-size-17 pt-xl-1 font-weight-bold font-weight-bold mb-1 text-gray-6">
                 <a href="blog/blog-single.html">Earning Asiana Club Miles Just Got Easier!</a>
@@ -2964,7 +2964,7 @@
             </div>
             <div class="js-slide mb-4">
               <a class="d-block rounded-xs overflow-hidden mb-3" href="blog/blog-single.html">
-                <img class="img-fluid w-100" src="/src/assets/open/img/410x300/img2.jpg" alt="Image-Description">
+                <img class="img-fluid w-100" src="/assets/open/img/410x300/img2.jpg" alt="Image-Description">
               </a>
               <h6 class="font-size-17 pt-xl-1 font-weight-bold font-weight-bold mb-1 text-gray-6">
                 <a href="blog/blog-single.html">Save big on hotels!</a>
@@ -2975,7 +2975,7 @@
             </div>
             <div class="js-slide mb-4">
               <a class="d-block rounded-xs overflow-hidden mb-3" href="blog/blog-single.html">
-                <img class="img-fluid w-100" src="/src/assets/open/img/410x300/img3.jpg" alt="Image-Description">
+                <img class="img-fluid w-100" src="/assets/open/img/410x300/img3.jpg" alt="Image-Description">
               </a>
               <h6 class="font-size-17 pt-xl-1 font-weight-bold font-weight-bold mb-1 text-gray-6">
                 <a href="blog/blog-single.html">Experience Europe Your Way</a>
@@ -2986,7 +2986,7 @@
             </div>
             <div class="js-slide mb-4">
               <a class="d-block rounded-xs overflow-hidden mb-3" href="blog/blog-single.html">
-                <img class="img-fluid w-100" src="/src/assets/open/img/410x300/img1.jpg" alt="Image-Description">
+                <img class="img-fluid w-100" src="/assets/open/img/410x300/img1.jpg" alt="Image-Description">
               </a>
               <h6 class="font-size-17 pt-xl-1 font-weight-bold font-weight-bold mb-1 text-gray-6">
                 <a href="blog/blog-single.html">Earning Asiana Club Miles Just Got Easier!</a>
@@ -2997,7 +2997,7 @@
             </div>
             <div class="js-slide mb-4">
               <a class="d-block rounded-xs overflow-hidden mb-3" href="blog/blog-single.html">
-                <img class="img-fluid w-100" src="/src/assets/open/img/410x300/img2.jpg" alt="Image-Description">
+                <img class="img-fluid w-100" src="/assets/open/img/410x300/img2.jpg" alt="Image-Description">
               </a>
               <h6 class="font-size-17 pt-xl-1 font-weight-bold font-weight-bold mb-1 text-gray-6">
                 <a href="blog/blog-single.html">Save big on hotels!</a>
@@ -3009,7 +3009,7 @@
 
             <div class="js-slide mb-4">
               <a class="d-block rounded-xs overflow-hidden mb-3" href="blog/blog-single.html">
-                <img class="img-fluid w-100" src="/src/assets/open/img/410x300/img3.jpg" alt="Image-Description">
+                <img class="img-fluid w-100" src="/assets/open/img/410x300/img3.jpg" alt="Image-Description">
               </a>
               <h6 class="font-size-17 pt-xl-1 font-weight-bold font-weight-bold mb-1 text-gray-6">
                 <a href="blog/blog-single.html">Experience Europe Your Way</a>
